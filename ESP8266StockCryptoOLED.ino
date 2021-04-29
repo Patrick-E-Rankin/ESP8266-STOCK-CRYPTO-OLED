@@ -1,3 +1,10 @@
+//This program came from: https://github.com/Patrick-E-Rankin/ESP8266-STOCK-CRYPTO-OLED
+//Please feel free to modify as you please
+//This program displays stock and crypto prices on an OLED using Yahoo Finance as a source.
+//Cryptos need to use the Yahoo format of symbol and currency, which for example is: BTC-USD
+//It also shows the percentage difference from yesterday's price.
+//When it first starts up it will show you what SSID it's connecting to and the IP address it wants you to go to for input.
+
 #include <ESP8266HTTPClient.h>
 #include <ESP8266WiFi.h>
 #include <ArduinoJson.h>
