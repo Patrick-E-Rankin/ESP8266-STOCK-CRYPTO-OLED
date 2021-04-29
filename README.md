@@ -10,7 +10,7 @@
       self served webpage.</p>
     <p>I am currently using Yahoo Finance for price info every 5 seconds but you
       can change that to the API of your choice along with the update frequency.</p>
-  <p>The ESP8266 needs the RSA fingerprint method, and it get updated randomly. You can get the fingerprint <a href="https://www.grc.com/fingerprints.htm">here</a>.</p>
+  <p>The ESP8266 needs the RSA fingerprint method, and it gets updated randomly. You can get the fingerprint <a href="https://www.grc.com/fingerprints.htm">here</a>.</p>
     <p>I am not a developer or programmer, so my code is not pretty, but I'm working on it.</p>
     <p>This code is compatible with Arduino.</p>
     <h3><u>Libraries Used:</u></h3>
