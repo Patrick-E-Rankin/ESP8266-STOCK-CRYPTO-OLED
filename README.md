@@ -4,7 +4,7 @@
 
   <body>
     <h1>ESP8266 Stock/Crypto OLED</h1>
-    <img src=""></img>
+    <img src="OLEDExample.gif"></img>
     <h3><u>Summary</u></h3>
     <p>ESP8266 based stock price display (not really a ticker because it doesn't move) that uses an OLED (SH1106), that receives the ticker symbol from
       self served webpage.</p>
