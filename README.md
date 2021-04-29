@@ -30,12 +30,11 @@
     <p>It also supports crypto, but you must use the Yahoo Finance format, for
       example BTC-USD for Bitcoin or DOGE-USD for Doge. Other currencies are supported.</p>
     <p>Any symbol that works on Yahoo Finance should technically work.</p>
-    <p>It also calculates the the percentage gain or loss from the previous close.</p>
+    <p>It also calculates the percentage gain or loss from the previous close.</p>
     <br>
   <h3><u>FAQ</u></h3>
   <p><b>What happens when I put a bad ticker? Like "None"?</b><br>
   An error will display on the OLED.</p>
-  
   <h3><u>TODO</u></h3>
   1) Multiple ticker support
  
