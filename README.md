@@ -20,7 +20,7 @@
       by <a href="https://github.com/me-no-dev" target="_blank">Me No Dev</a><br>
   <a href="https://github.com/bblanchon/ArduinoJson">ArduinoJson</a></p>
     <h3><u>Setup</u></h3>
-    <p>Connect your ESP8266 to your i2c lcd how you please. You should know how to do this.</p>
+    <p>Connect your ESP8266 to your i2c OLED. I use the standard D1(SCL) and D2 (SDA).</p>
     <p>You must insert your own SSID and password for your Wifi, so it can
       connect. </p>
     <p>Upon getting an IP address it will display it continually on the OLED until it receives its first ticker symbol.</p>
